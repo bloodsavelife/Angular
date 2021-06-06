@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "blooddonorAngular"
+    }
+  },
+  "defaultProject": "blooddonorAngular",
+  "cli": {
+    "analytics": false
+  }
 }
